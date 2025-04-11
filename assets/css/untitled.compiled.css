@@ -1,0 +1,86 @@
+:root {
+    --backgroundcolor: #567fcc;
+    --textcolor:#ffffff;
+  }
+  
+  .navbar.darkbackground {
+    opacity: 0.8;
+    background-color: var(--backgroundcolor);
+  }
+  
+  .navbar.link {
+    color: white;
+    font-size: 10px;
+  }
+  
+  .logonavbar {
+    max-width: 43px;
+  }
+  
+  .Introduction {
+    padding-top: 80px;
+    text-align: center;
+    color: var(--textcolor);
+    background-color: var(--backgroundcolor);
+  }
+  
+  .Introduction h1 {
+    font-size: 45px;
+    font-weight: bold;
+  }
+  
+  .Introduction h2 {
+    font-size: 27px;
+    font-weight: 400;
+  }
+  
+  .information {
+    color: var(--textcolor);
+    background-color: var(--backgroundcolor);
+  }
+  
+  .information p {
+    padding: 10px;
+  }
+  
+  .information h1 {
+    padding-top: 20px;
+  }
+  
+  .information {
+    color: var(--textcolor);
+    background-color: var(--backgroundcolor);
+  }
+  
+  .information h1 {
+    padding-top: 50px;
+    text-align: center;
+  }
+  
+  .information h2 {
+    text-align: left;
+  }
+  
+  .History {
+    padding-top: 80px;
+  }
+  
+  .divisionheader {
+    color: var(--bs-teal);
+  }
+  
+  .tablebody {
+    color: var(--textcolor);
+  }
+  
+  .glsafooter {
+    font-size: 40px;
+  }
+  
+  .TextJohn {
+    font-size: 20px;
+  }
+  
+  .logoglsa {
+    padding-bottom: 20px;
+  }
